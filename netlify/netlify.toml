@@ -1,0 +1,8 @@
+[build]
+  functions = "netlify/functions"
+  publish = "extension"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

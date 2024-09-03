@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+
+# Firebase local credentials
+.firebase/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Compiled files
+*.out
+*.o
+
+# Local Netlify folder
+.netlify
